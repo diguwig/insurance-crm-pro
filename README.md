@@ -60,7 +60,7 @@ python --version
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/yourusername/insurance-crm-pro.git
+git clone https://github.com/diguwig/insurance-crm-pro.git
 cd insurance-crm-pro
 ```
 
