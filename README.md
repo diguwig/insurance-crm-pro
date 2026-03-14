@@ -225,8 +225,8 @@ login_win.configure(bg="#f0f2f5")  # Новый цвет
 
 ## 📞 Контакты
 
-- **Автор**: Your Name
-- **Email**: your.email@example.com
+- **Автор**: Мы
+- **Email**: наш.email@gmail.com
 - **Проект**: [Insurance CRM Pro](https://github.com/yourusername/insurance-crm-pro)
 
 ---
